@@ -1,7 +1,7 @@
 {
   "name": "Big Data Genomics",
   "tagline": "Celloud product",
-  "body": "# Big Data Genomics\r\n[fastQcRead v0.3.1](https://github.com/yuyang2015/fastQcRead)\r\n<br>\r\n### A quality control tool for high throughput sequence data by Spark\r\n<br><br><br>\r\n[FastqTrim v0.2.6](https://github.com/yuyang2015/FastqTrim)\r\n<br>\r\n### A fastq file trim tool for high throughput sequence data by Spark",
+  "body": "# Big Data Genomics\r\n## [fastQcRead v0.3.1](https://github.com/yuyang2015/fastQcRead)\r\n<br>\r\n### A quality control tool for high throughput sequence data by Spark\r\n<br><br><br>\r\n## [FastqTrim v0.2.6](https://github.com/yuyang2015/FastqTrim)\r\n<br>\r\n### A fastq file trim tool for high throughput sequence data by Spark",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
